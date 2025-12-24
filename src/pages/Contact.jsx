@@ -26,9 +26,10 @@ export default function Contact() {
               <div>
                 <h3 className="font-medium text-[#333]">Address</h3>
                 <p className="text-[#555]">
-                  D.No 25‑16‑180, 181, Mirichi Yard Road,
-                  <br />
-                  Guntur, Andhra Pradesh, 522005
+                  H/No. 26A, W/No. 27, Barman Lane,
+                  <br/> Near Overbridge, Tarapur, Silchar, Assam.
+                  <br/>
+                   District: Cachar, Pincode: 788003
                 </p>
               </div>
 
@@ -41,8 +42,8 @@ export default function Contact() {
 
               <div>
                 <h3 className="font-medium text-[#333]">Email</h3>
-                <a href="mailto:samsu@agrocrops.com" className="text-[#F5A623] font-semibold">
-                  samsu@agrocrops.com
+                <a href="mailto:mimkemprai25@gmail.com" className="text-[#F5A623] font-semibold">
+                  mimkemprai25@gmail.com
                 </a>
               </div>
             </div>
@@ -66,11 +67,10 @@ export default function Contact() {
             </h2>
 
             <form
-              name="contact"
-              method="POST"
-              data-netlify="true"
-              className="space-y-5"
-            >
+  action="https://formsubmit.co/mimkemprai25@gmail.com"
+  method="POST"
+  className="space-y-5"
+>
               <input type="hidden" name="form-name" value="contact" />
 
               <div className="space-y-1">
